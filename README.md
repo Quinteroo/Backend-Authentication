@@ -20,6 +20,8 @@ Backend project developed to practice authentication and authorization:
 ## Technologies used
 - Node.js
 - javaScript
+- mongoDB
+- Insomnia
 
 ## Dependencies
 - Nodemon
@@ -38,7 +40,7 @@ To start the project, it is necessary to install all dependencies. Your package.
 
 
 >[!IMPORTANT]
-> Since there is no frontend, all requests need to be made using software that simulates it, such as INSOMNIA or POSTMAN.
+> Since there is no frontend, all requests need to be made using software that simulates it, such as INSOMNIA or POSTMAN. The database IP is universally accessible at 0.0.0.0/0.
 
 >[!NOTE]
 > do not forget
